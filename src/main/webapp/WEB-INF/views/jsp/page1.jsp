@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Navigated from Home. <a href="home.jsp">Click</a> here to navigate back..
+	Navigated from Home. <a href="home">Click</a> here to navigate back..
 </body>
 </html>

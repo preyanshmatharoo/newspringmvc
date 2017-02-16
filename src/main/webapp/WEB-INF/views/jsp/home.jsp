@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Test Page
+	Test Page.
+	<br>
+	<a href="page1">Click</a> to go to Page1.
 </body>
 </html>
